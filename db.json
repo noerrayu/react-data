@@ -1,0 +1,76 @@
+{
+  "books" :[
+        {
+          "id": 1,
+          "title": "Laskar Pelangi",
+          "category": "Novel",
+          "author": "Andrea Hirata"
+        },
+        {
+          "id": 2,
+          "title": "Harry Potter",
+          "category": "Novel",
+          "author": "J.K Rowling"
+        }
+        {
+          "id": 3,
+          "title": "Doraemon",
+          "category": "Comic",
+          "author": "Fujiko Fujio"
+        },
+        {
+          "id": 4,
+          "title": "Rentang Kisah",
+          "category": "Novel",
+          "author": "Gita Savitri"
+        },
+        {
+          "id": 5,
+          "title": "Dia Adalah Kakakku",
+          "category": "Novel",
+          "author": "Tere Liye"
+        },
+        {
+          "id": 6,
+          "title": "Garis Waktu",
+          "category": "Novel",
+          "author": "Fiersa Besari"
+        },
+        {
+          "id": 7,
+          "title": "Nanti Kita Cerita Tentang Hari Ini",
+          "category": "Novel",
+          "author": "Marchella FP"
+        },
+        {
+          "id": 8,
+          "title": "Detective Conan",
+          "category": "Comic",
+          "author": "Gosho Aoyoma"
+        },
+        {
+          "id": 9,
+          "title": "Crayon Shincan",
+          "category": "Comic",
+          "author": "Yoshito Usui"
+        },
+        {
+          "id": 10,
+          "title": "Anpanman",
+          "category": "Comic",
+          "author": "Hiroaki Kondo"
+        },
+        {
+          "id": 11,
+          "title": "One Piece",
+          "category": "Comic",
+          "author": "Eiichiro Oda"
+        },
+        {
+          "id": 12,
+          "title": "Berhenti di Kamu",
+          "category": "Novel",
+          "author": "Gia Pratama"
+        }
+    ]
+}
